@@ -1,0 +1,26 @@
+.bodybox {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    align-items: center;
+    text-align: center;
+}
+
+.leftbox {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: red;
+    width: 10vw;
+    min-width: 50px;
+}
+.leftbox ul {
+    list-style: none;
+}
+.leftbox ul li {
+
+}
+
+.docbox {
+    width: 90%;
+}
